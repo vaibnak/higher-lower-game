@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Higher_Lower</string>
+    <string name="title">HIGHER OR LOWER</string>
+    <string name="lock">Lock</string>
+</resources>
